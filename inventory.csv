@@ -1,0 +1,51 @@
+Farmer_Name,Crop_Type,Quantity_KG,Grade,Current_Mandi_Price,Hub_Location
+Pooja Mishra,Green Chilli,1949,C,35.09,Fatehpur Hub
+Yamuna Devi,Cauliflower,1640,B,22.45,Tekari Hub
+Om Prakash,Spinach,1317,C,13.87,Fatehpur Hub
+Vinod Kumar,Peas,881,A,38.92,Barachatti Hub
+Sanjay Rao,Maize,1578,A,20.46,Bodh Gaya Hub
+Sushila Devi,Okra (Bhindi),1204,A,25.72,Bodh Gaya Hub
+Ravi Shankar,Spinach,1558,A,13.1,Barachatti Hub
+Meena Gupta,Brinjal,1892,B,14.99,Tekari Hub
+Ashok Verma,Green Chilli,696,A,31.44,Barachatti Hub
+Dinesh Chandra,Rice,70,C,36.13,Fatehpur Hub
+Chanda Devi,Onion,890,B,24.03,Imamganj Hub
+Radha Devi,Green Chilli,216,A,36.4,Bodh Gaya Hub
+Ramesh Chandra,Maize,1347,B,21.12,Wazirganj Hub
+Suresh Kumar,Maize,437,A,20.73,Wazirganj Hub
+Manoj Tiwari,Okra (Bhindi),650,C,25.37,Fatehpur Hub
+Rakesh Ranjan,Brinjal,365,A,17.88,Sherghati Hub
+Vijay Prasad,Cauliflower,63,C,20.24,Guraru Hub
+Ramesh Yadav,Okra (Bhindi),291,B,30.58,Barachatti Hub
+Harish Chandra,Okra (Bhindi),826,A,31.33,Barachatti Hub
+Amit Kumar,Onion,1419,A,20.8,Sherghati Hub
+Kavita Patel,Cabbage,614,C,10.6,Sherghati Hub
+Bhola Singh,Brinjal,947,B,14.69,Fatehpur Hub
+Arun Mahato,Potato,1413,B,13.69,Fatehpur Hub
+Anju Devi,Okra (Bhindi),141,B,30.67,Sherghati Hub
+Naresh Yadav,Mustard,1440,A,60.95,Bodh Gaya Hub
+Sunil Kumar,Carrot,1005,B,17.89,Fatehpur Hub
+Shanti Bai,Cabbage,1528,A,12.04,Imamganj Hub
+Anita Devi,Potato,1501,C,13.65,Fatehpur Hub
+Satish Kumar,Mustard,558,B,50.41,Barachatti Hub
+Sangita Devi,Brinjal,825,A,14.18,Fatehpur Hub
+Prakash Jha,Tomato,84,A,17.12,Bodh Gaya Hub
+Nirmala Devi,Mustard,255,A,62.31,Sherghati Hub
+Sunita Kumari,Rice,1154,A,30.3,Barachatti Hub
+Gopal Krishna,Cabbage,1635,B,12.07,Fatehpur Hub
+Lakshmi Nair,Spinach,1945,B,15.91,Bodh Gaya Hub
+Savitri Devi,Mustard,1461,C,52.75,Imamganj Hub
+Usha Rani,Wheat,1075,B,27.4,Fatehpur Hub
+Mahesh Prasad,Tomato,1071,A,20.5,Bodh Gaya Hub
+Rekha Devi,Maize,1463,B,17.59,Imamganj Hub
+Geeta Sharma,Maize,615,B,18.98,Sherghati Hub
+Kamla Devi,Peas,1179,B,37.61,Fatehpur Hub
+Rina Devi,Rice,1845,B,29.93,Imamganj Hub
+Vikram Thakur,Mustard,1895,B,47.36,Barachatti Hub
+Deepak Choudhary,Mustard,1550,B,56.81,Sherghati Hub
+Mohan Lal,Peas,752,B,40.03,Barachatti Hub
+Neeta Kumari,Carrot,451,A,18.17,Wazirganj Hub
+Rajesh Singh,Carrot,779,A,19.61,Tekari Hub
+Mamta Kumari,Peas,1629,A,44.9,Fatehpur Hub
+Sarita Kumari,Carrot,211,B,19.36,Imamganj Hub
+Kiran Devi,Onion,251,A,19.66,Tekari Hub
